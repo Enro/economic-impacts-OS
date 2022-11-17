@@ -25,3 +25,7 @@
 
 30' : in groups, identify the institutional barriers of French research organizations trying to balance commercialization of research and open science
 * https://engrxiv.org/index.php/engrxiv/preprint/view/1252
+* https://genomemedicine.biomedcentral.com/articles/10.1186/gm316
+* https://www.researchgate.net/profile/Yann-Joly/publication/269602016_Commercialization_versus_open_science_Making_sense_of_the_messages_in_the_bottle/links/553a52490cf29b5ee4b5c6d0/Commercialization-versus-open-science-Making-sense-of-the-messages-in-the-bottle.pdf
+
+After studying the texts, explain how you would tackle the issue with some practical solutions.
