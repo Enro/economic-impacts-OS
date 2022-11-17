@@ -9,7 +9,7 @@
 * https://ebooks.iospress.nl/publication/46650
 * http://dx.doi.org/10.2777/58887
 
-55' : in groups (groups of 2?), investigate some case studies of open science outputs and their economic impacts
+55' : in groups (groups of 2?), investigate some case studies of open science outputs and their economic impacts and [fill a template](https://github.com/Enro/economic-impacts-OS/blob/main/template.md)
 * iPython / Jupyter Notebook
 * Numpy
 * Scikit-learn
@@ -18,8 +18,6 @@
 * [syringe pump](https://hal.archives-ouvertes.fr/hal-02119548/)
 * Landsat satellite imaged ([source 1](https://www.pnas.org/doi/10.1073/pnas.2001682117) and [source 2](https://www.unoosa.org/pdf/pres/stsc2012/2012ind-05E.pdf))
 * [PubChem](https://journals.sagepub.com/doi/10.1177/0306312718772086)
-
-Fill a template
 
 15' : break
 
