@@ -30,3 +30,5 @@
 * https://www.tandfonline.com/doi/full/10.1080/23299460.2019.1608615
 
 After studying the texts, explain how you would tackle the issue in your research organization or research lab.
+
+## Bibliography
