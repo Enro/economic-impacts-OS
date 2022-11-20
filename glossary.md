@@ -17,3 +17,9 @@ The Solow–Swan model is modified to include consideration of the accessibility
 
 ## Wide ranging economic analysis of value to sectors such as education, healthcare and oil/gas
 This analysis looks at issues such as, in the transportation sector, improved infrastructure planning and management, optimized fleet investment and better-informed consumer decision-making. 
+
+ ## Willingness to accept
+ What payment they would accept for loss of access.
+
+ ## Willingness to pay
+ What users would pay to retain access.
