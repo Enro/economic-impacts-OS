@@ -52,7 +52,7 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 ### Productivity improvements
 
-#### Text mining allows generation of new information through analysis of large bodies of text or data => time taken to extract useful information from sources can be reduced
+#### Text mining allows generation of new information through analysis of large bodies of text or data <aside>Time taken to extract useful information from sources can be reduced</aside>
 
 ### Avoid duplication of efforts
 
