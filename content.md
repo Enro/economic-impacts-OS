@@ -35,3 +35,4 @@
 After studying the texts, explain how you would tackle the issue in your research organization or research lab.
 
 ## Bibliography
+Fell, M. J. (2019). The Economic Impacts of Open Science: A Rapid Evidence Assessment. Publications, 7(3), 46. https://doi.org/10.3390/publications7030046
