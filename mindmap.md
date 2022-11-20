@@ -5,21 +5,6 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 # Economic impacts of open science
 
-## Productivity
-
-### Researchers productivity
-
-
-## Competitiveness
-
-## Employment
-
-## Income
-
-## Investment
-
-## Value
-
 ## Efficiency 
 
 ### Access cost savings
@@ -60,4 +45,12 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 ### Development of new products, services, companies
 
-### Collaborations that of new pre-competitive multi-stakeholder collaborative research
+### Collaborations, especially pre-competitive multi-stakeholder collaborative research
+
+### Permitting work, i.e. research that would not otherwise have been possible
+  
+## Costs and challenges
+  
+### Less rewards than commercialization
+  
+### Mandatory data disclosure requirements leads to strategic delays in publication
