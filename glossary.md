@@ -19,7 +19,7 @@ The Solow–Swan model is modified to include consideration of the accessibility
 This analysis looks at issues such as, in the transportation sector, improved infrastructure planning and management, optimized fleet investment and better-informed consumer decision-making. 
 
  ## Willingness to accept
- What payment they would accept for loss of access.
+ What payment they would accept for loss of access. Getting an accurate estimate of willingness to pay/accept from surveys can be difficult for reasons including respondents’ own difficulties in estimating value, incentives to obscure true value estimates, and mismatch between valuations and real purchasing behaviour.
 
  ## Willingness to pay
- What users would pay to retain access.
+ What users would pay to retain access. Getting an accurate estimate of willingness to pay/accept from surveys can be difficult for reasons including respondents’ own difficulties in estimating value, incentives to obscure true value estimates, and mismatch between valuations and real purchasing behaviour.
