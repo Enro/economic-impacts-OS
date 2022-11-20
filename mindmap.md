@@ -5,4 +5,23 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 # Economic impacts of open science
 
-## Researchers productivity
+## Productivity
+
+### Researchers productivity
+
+
+## Competitiveness
+
+## Employment
+
+## Income
+
+## Investment
+
+## Value
+
+## Efficiency 
+
+### Access cost savings
+
+#### Access to research findings
