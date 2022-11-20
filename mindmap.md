@@ -52,7 +52,12 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 ### Productivity improvements
 
-#### Text mining allows generation of new information through analysis of large bodies of text or data <aside>Time taken to extract useful information from sources can be reduced</aside>
+#### Text mining allows generation of new information through analysis of large bodies of text or data <aside>Time taken to extract useful information from sources can be reduced
 
 ### Avoid duplication of efforts
 
+## Enablement
+
+### Development of new products, services, companies
+
+### Collaborations that of new pre-competitive multi-stakeholder collaborative research
