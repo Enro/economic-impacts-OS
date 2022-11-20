@@ -24,4 +24,22 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 ### Access cost savings
 
-#### Access to research findings
+#### Save cost of journal subscriptions
+
+#### Typically no cost of access to data
+
+##### Willingness to pay
+
+##### Willingness to accept
+
+#### Transactions costs savings
+
+##### Avoid material transfer agreements
+
+##### Avoid negotiating intellectual property
+
+###### Reduce uncertainty
+
+###### Save negotiation costs
+
+###### E.g. text and data mining
