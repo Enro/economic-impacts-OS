@@ -43,3 +43,16 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 ###### Save negotiation costs
 
 ###### E.g. text and data mining
+
+### Labour cost savings
+
+#### Time spent accessing research outputs
+
+#### Time spent exchanging data
+
+### Productivity improvements
+
+#### Text mining allows generation of new information through analysis of large bodies of text or data => time taken to extract useful information from sources can be reduced
+
+### Avoid duplication of efforts
+
