@@ -32,7 +32,7 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 ##### Willingness to accept
 
-#### Transactions costs savings
+#### Transaction costs savings
 
 ##### Avoid material transfer agreements
 
