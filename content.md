@@ -3,7 +3,6 @@
 30' : create a [collaborative mindmap](https://framindmap.org/c/maps/1303082/edit) on the economic impacts of open science
 
 30' : lesson on the economic impacts identified by studies
-* https://www.mdpi.com/2304-6775/7/3/46
 * https://www.emerald.com/insight/content/doi/10.1108/JIUC-04-2020-0004/full/html
 * https://doi.org/10.3389/frma.2020.588331
 * https://ebooks.iospress.nl/publication/46650
