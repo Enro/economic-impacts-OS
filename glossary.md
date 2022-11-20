@@ -25,7 +25,7 @@ This analysis looks at issues such as, in the transportation sector, improved in
 Getting an accurate estimate of willingness to pay/accept from surveys can be difficult for reasons including respondents’ own difficulties in estimating value, incentives to obscure true value estimates, and mismatch between valuations and real purchasing behaviour.
 
 ### Willingness to accept
-What payment they would accept for loss of access.
+What payment users would accept for loss of access.
 
 ### Willingness to pay
 What users would pay to retain access.
