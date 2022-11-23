@@ -58,3 +58,15 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 ### Less rewards than commercialization
   
 ### Mandatory data disclosure requirements leads to strategic delays in publication
+
+## Quality
+  
+### Pre-registration of study design and protocol
+  
+### Open peer review
+  
+### Post-publication peer review
+  
+### Open access
+  
+### Open data
