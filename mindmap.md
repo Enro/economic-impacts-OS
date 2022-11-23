@@ -11,6 +11,10 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 #### Save cost of journal subscriptions
 
+##### SMEs spend a smaller budget on subscriptions than larger companies
+
+##### University collaborations help with journal access
+
 #### Typically no cost of access to data
 
 ##### Willingness to pay
