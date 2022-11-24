@@ -3,7 +3,6 @@
 30' : create a [collaborative mindmap](https://framindmap.org/c/maps/1303082/edit) on the economic impacts of open science
 
 30' : lesson on the economic impacts identified by studies
-* https://ebooks.iospress.nl/publication/46650
 * http://dx.doi.org/10.2777/58887
 
 55' : in groups (groups of 2?), investigate some case studies of open science outputs and their economic impacts and [fill a template](https://github.com/Enro/economic-impacts-OS/blob/main/template.md)
