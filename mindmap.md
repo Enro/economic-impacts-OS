@@ -5,7 +5,7 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 # Economic impacts of open science
 
-## Efficiency 
+## Efficiency <!--fold -->
 
 ### Access cost savings
 
@@ -45,21 +45,15 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 ### Avoid duplication of efforts
 
-## Enablement
+## Enablement <!--fold -->
 
 ### Development of new products, services, companies
 
 ### Collaborations, especially pre-competitive multi-stakeholder collaborative research
 
 ### Permitting work, i.e. research that would not otherwise have been possible
-  
-## Costs and challenges
-  
-### Less rewards than commercialization
-  
-### Mandatory data disclosure requirements leads to strategic delays in publication
 
-## Quality
+## Quality <!--fold -->
   
 ### Pre-registration of study design and protocol
   
@@ -70,3 +64,10 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 ### Open access
   
 ### Open data
+  
+## Costs and challenges <!--fold -->
+  
+### Less rewards than commercialization
+  
+### Mandatory data disclosure requirements leads to strategic delays in publication
+
