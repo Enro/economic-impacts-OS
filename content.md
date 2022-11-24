@@ -31,5 +31,5 @@
 After studying the texts, explain how you would tackle the issue in your research organization or research lab.
 
 ## Bibliography
-Fell, M. J. (2019). The Economic Impacts of Open Science: A Rapid Evidence Assessment. *Publications*, 7(3), 46. https://doi.org/10.3390/publications7030046
 European Commission, Directorate-General for Research and Innovation (2022). *Study on factors impeding the productivity of research and the prospects for open science policies to improve the ability of the research and innovation system : final report*, Publications Office of the European Union. https://data.europa.eu/doi/10.2777/58887
+Fell, M. J. (2019). The Economic Impacts of Open Science: A Rapid Evidence Assessment. *Publications*, 7(3), 46. https://doi.org/10.3390/publications7030046
