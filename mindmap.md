@@ -41,9 +41,11 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 ### Productivity improvements
 
-#### Text mining allows generation of new information through analysis of large bodies of text or data <aside>Time taken to extract useful information from sources can be reduced
+#### Text and data mining allows generation of new information through analysis of large bodies of text or data <aside>Time taken to extract useful information from sources can be reduced
+  
+#### Access to more complete information diminishes ignorance
 
-### Avoid duplication of efforts
+#### Avoid duplication of efforts
 
 ## Enablement <!--fold -->
 
@@ -52,18 +54,36 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 ### Collaborations, especially pre-competitive multi-stakeholder collaborative research
 
 ### Permitting work, i.e. research that would not otherwise have been possible
+  
+### Democratization of scientific knowledge
+  
+#### Marginal groups are empowered to solving their problems
+
+#### Feeds cheaper, open (rather than for profit) solutions
 
 ## Quality <!--fold -->
   
-### Pre-registration of study design and protocol
+### Validation of research outputs
   
-### Open peer review
+#### Open peer review
   
-### Post-publication peer review
+#### Post-publication peer review
   
-### Open access
+### Less biased, more honest reporting
   
-### Open data
+#### Pre-registration of study design and protocol
+  
+### More reproducible research
+    
+#### Open data
+  
+#### Open source research software
+  
+### Creative research from diverse contributors
+  
+#### Crowdsourcing
+  
+#### Unconventional thinking
   
 ## Costs and challenges <!--fold -->
   
