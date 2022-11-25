@@ -7,7 +7,7 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 ## Efficiency <!--fold -->
 
-### Access cost savings
+### Access cost savings <!--fold -->
 
 #### Save cost of journal subscriptions
 
@@ -33,13 +33,13 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 ###### E.g. text and data mining
 
-### Labour cost savings
+### Labour cost savings <!--fold -->
 
 #### Time spent accessing research outputs
 
 #### Time spent exchanging data
 
-### Productivity improvements
+### Productivity improvements <!--fold -->
 
 #### Text and data mining allows generation of new information through analysis of large bodies of text or data <aside>Time taken to extract useful information from sources can be reduced
   
@@ -51,7 +51,7 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 ### Development of new products, services, companies
 
-### Collaborations, especially pre-competitive multi-stakeholder collaborative research
+### Collaborations, especially pre-competitive multi-stakeholder collaborative research 
 
 ### Permitting work, i.e. research that would not otherwise have been possible
   
@@ -63,23 +63,23 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 ## Quality <!--fold -->
   
-### Validation of research outputs
+### Validation of research outputs <!--fold -->
   
 #### Open peer review
   
 #### Post-publication peer review
   
-### Less biased, more honest reporting
+### Less biased, more honest reporting <!--fold -->
   
 #### Pre-registration of study design and protocol
   
-### More reproducible research
+### More reproducible research <!--fold -->
     
 #### Open data
   
 #### Open source research software
   
-### Creative research from diverse contributors
+### Creative research from diverse contributors <!--fold -->
   
 #### Crowdsourcing
   
@@ -88,6 +88,6 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 ## Costs and challenges <!--fold -->
   
 ### Less rewards than commercialization
-  
+
 ### Mandatory data disclosure requirements leads to strategic delays in publication
 
