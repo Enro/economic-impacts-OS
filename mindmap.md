@@ -57,9 +57,11 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
   
 ### Democratization of scientific knowledge
   
+#### Research questions are better informed by societal needs <aside>Diversity and plurality in scientific participation could facilitate the identification of problems
+  
 #### Marginal groups are empowered to solving their problems
 
-#### Feeds cheaper, open (rather than for profit) solutions
+#### Nurtures cheaper, open (rather than for profit) solutions
 
 ## Quality <!--fold -->
   
@@ -84,10 +86,16 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 #### Crowdsourcing
   
 #### Unconventional thinking
-  
+    
 ## Costs and challenges <!--fold -->
   
-### Less rewards than commercialization
+### The social benefits of open science are greater than the individual benefits
+  
+#### The individual (administrative) costs may be high
+  
+##### Less rewards than commercialization
+  
+### Backfire effect
 
-### Mandatory data disclosure requirements leads to strategic delays in publication
+#### Mandatory data disclosure requirements leads to strategic delays in publication
 
