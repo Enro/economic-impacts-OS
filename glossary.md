@@ -19,6 +19,14 @@ Three main frameworks can be used to define research productivity:
 2. Innovation framework. Research productivity is studied as the ratio of research inputs (e.g. funding and human capital) to innovation outputs (e.g. technologies, patents and ideas).
 3. Societal impact framework. Research productivity is studied as the relationship between research inputs, how they are organised and prioritised, and their effects on society.
 
+### Factors hindering research productivity
+
+1. inefficient R & D routines
+2. market pressures that drive innovation away from social welfare
+3. R & D incentives that do not promote high-risk research
+4. the fast-expanding endless frontier of new knowledge needed for innovations
+5. difficulties in combining different areas of knowledge.
+
 ## Solow–Swan model
 The Solow–Swan model is a way of estimating the contribution of technological progress (driven by R&D) to economic growth. It can be used to estimate a return on investment in R&D through value to the economy in the coming years.
 
