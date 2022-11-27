@@ -21,11 +21,11 @@ Three main frameworks can be used to define research productivity:
 
 ### Factors hindering research productivity
 
-1. inefficient R & D routines
+1. inefficient R&D routines: innovation processes and routines have changed substantially over time and vary across sectors; as new technologies and new organisations emerge, R&D processes need to adapt
 2. market pressures that drive innovation away from social welfare
-3. R & D incentives that do not promote high-risk research
-4. the fast-expanding endless frontier of new knowledge needed for innovations
-5. difficulties in combining different areas of knowledge.
+3. R & D incentives that do not promote high-risk research: aside from market pressure, several policies shape innovation incentives in ways that are not aligned with radical innovations or innovations for the public good
+4. fast-expanding endless frontier of new knowledge needed for innovations: new knowledge is essential for innovation, but as the frontier expands new knowledge is more difficult to achieve and more investments and talents are needed
+5. difficulties in combining different areas of knowledge: although innovation is a process of knowledge recombination, and radical innovations tend to emerge from the combination of more different knowledge components, such combinations are risky and are increasingly difficult to produce.
 
 ## Solow–Swan model
 The Solow–Swan model is a way of estimating the contribution of technological progress (driven by R&D) to economic growth. It can be used to estimate a return on investment in R&D through value to the economy in the coming years.
