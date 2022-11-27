@@ -12,6 +12,13 @@ Efficiency means getting the same output from research or innovation for less in
 ## Enablement
 Enablement signifies ways in which open science approaches have led to economically impactful activities which would have been less likely to occur in a closed environment.
 
+## Research productivity
+
+Three main frameworks can be used to define research productivity:
+1. Scientometric framework. Research productivity is studied as the ratio of research inputs (e.g. funding and human capital) to knowledge codified in bibliographical outputs (publications and patents).
+2. Innovation framework. Research productivity is studied as the ratio of research inputs (e.g. funding and human capital) to innovation outputs (e.g. technologies, patents and ideas).
+3. Societal impact framework. Research productivity is studied as the relationship between research inputs, how they are organised and prioritised, and their effects on society.
+
 ## Solow–Swan model
 The Solow–Swan model is a way of estimating the contribution of technological progress (driven by R&D) to economic growth. It can be used to estimate a return on investment in R&D through value to the economy in the coming years.
 
