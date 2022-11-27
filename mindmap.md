@@ -51,9 +51,13 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 
 ### Development of new products, services, companies
 
-### Collaborations, especially pre-competitive multi-stakeholder collaborative research 
+### Collaborations
+  
+#### e.g. pre-competitive multi-stakeholder collaborative research 
 
-### Permitting work, i.e. research that would not otherwise have been possible
+### Permitting work
+
+#### i.e. research that would not otherwise have been possible
   
 ### Democratization of scientific knowledge
   
