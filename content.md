@@ -24,7 +24,7 @@
 30' : in groups, identify the institutional barriers of research organizations trying to balance commercialization of research and open science
 * https://doi.org/10.1002/cjce.24077 section 4
 * https://genomemedicine.biomedcentral.com/articles/10.1186/gm316
-* https://www.researchgate.net/profile/Yann-Joly/publication/269602016_Commercialization_versus_open_science_Making_sense_of_the_messages_in_the_bottle/links/553a52490cf29b5ee4b5c6d0/Commercialization-versus-open-science-Making-sense-of-the-messages-in-the-bottle.pdf
+* https://journals.sagepub.com/doi/10.1177/0968533212441887
 * https://www.tandfonline.com/doi/full/10.1080/23299460.2019.1608615
 
 After studying the texts, explain how you would tackle the issue in your research organization or research lab.
