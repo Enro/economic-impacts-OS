@@ -26,8 +26,8 @@
 After studying the texts, identify the institutional barriers of research organizations trying to balance commercialization of research and open science, and explain how you would tackle the issue in your research organization or research lab.
 
 ## Bibliography
-European Commission, Directorate-General for Research and Innovation (2022). *Study on factors impeding the productivity of research and the prospects for open science policies to improve the ability of the research and innovation system : final report*, Publications Office of the European Union. https://data.europa.eu/doi/10.2777/58887
-Fell, M. J. (2019). The Economic Impacts of Open Science: A Rapid Evidence Assessment. *Publications*, 7(3), 46. https://doi.org/10.3390/publications7030046
+* European Commission, Directorate-General for Research and Innovation (2022). *Study on factors impeding the productivity of research and the prospects for open science policies to improve the ability of the research and innovation system : final report*, Publications Office of the European Union. https://data.europa.eu/doi/10.2777/58887
+* Fell, M. J. (2019). The Economic Impacts of Open Science: A Rapid Evidence Assessment. *Publications*, 7(3), 46. https://doi.org/10.3390/publications7030046
 * https://doi.org/10.1002/cjce.24077 section 4
 * https://genomemedicine.biomedcentral.com/articles/10.1186/gm316
 * https://journals.sagepub.com/doi/10.1177/0968533212441887
