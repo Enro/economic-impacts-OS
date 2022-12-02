@@ -7,7 +7,7 @@ Contingent value is equal to the hypothetical **willingness to pay** multiplied 
 In a standard CBA, researchers sum up the identifiable existing or expected costs and benefits (converted to monetary terms) to which stakeholders in the system of interest are exposed to calculate the overall costs and benefits which accrue, and to whom. 
 
 ## Efficiency
-Efficiency means getting the same output from research or innovation for less input (principally public research funding). For example, if open access publishing can be shown to allow access to research findings for the same number of researchers for a lower overall cost, this would represent an efficiency saving. While this review is not principally concerned with economic impacts within the university/publishing sector, such efficiencies are also relevant to wider economic impacts through improved returns to R&D.
+Efficiency means getting the same output from research or innovation for less input (principally public research funding). For example, if open access publishing can be shown to allow access to research findings for the same number of researchers for a lower overall cost, this would represent an efficiency saving. Such efficiencies are also relevant to wider economic impacts through improved returns to R&D.
 
 ## Enablement
 Enablement signifies ways in which open science approaches have led to economically impactful activities which would have been less likely to occur in a closed environment.
