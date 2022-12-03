@@ -1,10 +1,16 @@
 # Glossary
 
+## Avoided reproduction value
+The avoided reproduction value is the avoided cost of reproduction of free and open source hardware for a single company. The number of design hours needed to replicate the product is multiplied by the hourly wage of the workers needed to produce the replication. This method of capturing value can also be extrapolated to all firms (and individuals that would hire firms or freelance designers to complete the design) to obtain the total value to society.
+
 ## Contingent value
 Contingent value is equal to the hypothetical **willingness to pay** multiplied by number of users estimated on the basis of website visits.
 
 ## Cost–benefit analysis (CBA)
 In a standard CBA, researchers sum up the identifiable existing or expected costs and benefits (converted to monetary terms) to which stakeholders in the system of interest are exposed to calculate the overall costs and benefits which accrue, and to whom. 
+
+## Downloaded substitution value
+The downloaded substitution value uses the number of times that a free and open source hardware design is accessed on the Internet to quantify the value of the design.
 
 ## Efficiency
 Efficiency means getting the same output from research or innovation for less input (principally public research funding). For example, if open access publishing can be shown to allow access to research findings for the same number of researchers for a lower overall cost, this would represent an efficiency saving. Such efficiencies are also relevant to wider economic impacts through improved returns to R&D.
