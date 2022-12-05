@@ -1,6 +1,6 @@
 # Content of the course
 
-30' : create a [collaborative mindmap](https://framindmap.org/c/maps/1303082/edit) on the economic impacts of open science
+30' : create a [collaborative mindmap](/mindmap.md) on the economic impacts of open science
 
 30' : lesson on the economic impacts identified by studies
 
