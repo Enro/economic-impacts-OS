@@ -2,6 +2,9 @@
 
 30' : create a [collaborative mindmap](https://mymarkmap.vercel.app/#https://raw.githubusercontent.com/Enro/economic-impacts-OS/main/mindmap.md) on the economic impacts of open science
 
+What students produced in 2022 : <img src="Mindmap.png" />
+
+
 30' : lesson on the economic impacts identified by studies
 
 55' : in groups, investigate some case studies of open science outputs and their economic impacts and [fill a template](https://github.com/Enro/economic-impacts-OS/blob/main/template.md)
