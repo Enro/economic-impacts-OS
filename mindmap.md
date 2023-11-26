@@ -102,3 +102,7 @@ style: aside {font-size:0.5em; line-height:1em; position:absolute!important; top
 ### Backfire effect
 
 #### Mandatory data disclosure requirements leads to strategic delays in publication
+
+# Student work
+
+<img src="Mindmap.png" />
