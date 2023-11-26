@@ -28,6 +28,6 @@ After studying the texts, identify the institutional barriers of research organi
 ## Bibliography
 * European Commission, Directorate-General for Research and Innovation (2022). *Study on factors impeding the productivity of research and the prospects for open science policies to improve the ability of the research and innovation system : final report*, Publications Office of the European Union. https://data.europa.eu/doi/10.2777/58887
 * Fell, M. J. (2019). The Economic Impacts of Open Science: A Rapid Evidence Assessment. *Publications*, 7(3), 46. https://doi.org/10.3390/publications7030046
-* Hart, K, An, S, Edwards, AM, Mahadevan, R, Master, ER, Edwards, EA. Could open science stimulate industry partnerships in chemical engineering university research? *Can J Chem Eng*. 2021; 99: 2186– 2194. https://doi-org.docelec.u-bordeaux.fr/10.1002/cjce.24077
+* Hart, K, An, S, Edwards, AM, Mahadevan, R, Master, ER, Edwards, EA. Could open science stimulate industry partnerships in chemical engineering university research? *Can J Chem Eng*. 2021; 99: 2186– 2194. https://doi.org/10.1002/cjce.24077
 * Caulfield, T., Harmon, S.H. & Joly, Y (2012). Open science versus commercialization: a modern research conflict?. *Genome Med* 4, 17 (2012). https://doi.org/10.1186/gm316
 * Shawn HE Harmon, Timothy Caulfield and Yann Joly (2012). Commercialization versus open science: Making sense of the message(s) in the bottle. *Medical Law International* 12(1), 3-10. https://doi.org/10.1177/0968533212441887
