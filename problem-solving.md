@@ -1,8 +1,10 @@
 # Difficulties
 
-## Third parties
+## Sponsors and funders
 
 Sponsors and third parties may enter into an agreement that overrides the policy. (IP Policy)
+
+At all times, researchers are expected to act in accordance with the expectations of those funding the research, and with the minimum thresholds set by regulatory bodies. (Open Science Statement)
 
 ## Joint ownership with students
 
