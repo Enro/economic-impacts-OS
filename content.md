@@ -1,5 +1,7 @@
 # Content of the course
 
+## Mindmap
+
 40' : create a [collaborative mindmap](https://mymarkmap.vercel.app/#https://raw.githubusercontent.com/Enro/economic-impacts-OS/main/mindmap.md) on the economic impacts of open science
 
 What students produced in 2022 : <img src="Mindmap.png" />
