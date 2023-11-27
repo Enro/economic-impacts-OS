@@ -4,6 +4,8 @@
 
 What students produced in 2022 : <img src="Mindmap.png" />
 
+## Case studies
+
 55' : in groups, investigate some case studies of open science outputs and their economic impacts and [fill a template](https://github.com/Enro/economic-impacts-OS/blob/main/template.md)
 * [Vidjil](https://www.vidjil.net/) (hematology and immunology)
 * [RISC-V](https://riscv.org/) (microprocessor design)
@@ -17,6 +19,8 @@ What students produced in 2022 : <img src="Mindmap.png" />
 15' : break
 
 20' : share the investigations with the other groups
+
+## Problem solving
 
 50' : in groups, read through the [IP Policy](https://www.enterprise.cam.ac.uk/wp-content/uploads/2021/04/IP-Policy-in-Practice-Guidance-Note-25May10-FINAL-CLEAN-Updated-links-August-2015.pdf) and the [Open Science Statement](https://osc.cam.ac.uk/open-research-position-statement) of the University of Cambridge.
 
