@@ -8,7 +8,7 @@ What students produced in 2022 : <img src="Mindmap.png" />
 
 ## Case studies
 
-55' : in groups, investigate some case studies of open science outputs and their economic impacts and [fill a template](https://github.com/Enro/economic-impacts-OS/blob/main/template.md)
+40' : in groups, investigate some case studies of open science outputs and their economic impacts and [fill a template](https://github.com/Enro/economic-impacts-OS/blob/main/template.md)
 * [Vidjil](https://www.vidjil.net/) (hematology and immunology)
 * [RISC-V](https://riscv.org/) (microprocessor design)
 * [syringe pump](https://hal.archives-ouvertes.fr/hal-02119548/)
@@ -18,9 +18,9 @@ What students produced in 2022 : <img src="Mindmap.png" />
 * [Human Genome Project](https://web.ornl.gov/sci/techresources/Human_Genome/publicat/BattelleReport2011.pdf)
 * [Structural Genomics Consortium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396214/)
 
-15' : break
+20' : break
 
-20' : share the investigations with the other groups
+30' : share the investigations with the other groups
 
 ## Problem solving
 
