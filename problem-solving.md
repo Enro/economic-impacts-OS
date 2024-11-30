@@ -8,8 +8,7 @@ At all times, researchers are expected to act in accordance with the expectation
 
 ## Joint ownership with students
 
-[In case] The IP is jointly created with other researchers or its creation is dependent on other University IP […] they may be required to assign the IP to the University or
-place the results in the public domain. `IP Policy`
+[In case] The IP is jointly created with other researchers or its creation is dependent on other University IP […] they [the students] may be required to assign the IP to the University or place the results in the public domain. `IP Policy`
 
 ## Citizen science and crowdsourcing
 
