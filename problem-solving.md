@@ -28,7 +28,7 @@ other IP right. `IP Policy`
 The Head of Department or their authorised delegate may authorise the release of
 copyright so-owned by the University under Open Source rules or similar arrangements. `IP Policy`
 
-CE and the creators will jointly decide whether or not to pursue commercialisation of the idea and the type of IP protection required. `IP Policy`
+CE [Cambrige Enterprise] and the creators will jointly decide whether or not to pursue commercialisation of the idea and the type of IP protection required. `IP Policy`
 
 The University supports the academic freedom of researchers to pursue new knowledge, and to choose the means of dissemination; but within that free choice, the University encourages outputs of research, and where appropriate the accompanying data, to be ‘as open as possible, as closed as necessary’. `Open Science Statement`
 
