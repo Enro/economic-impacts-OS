@@ -10,7 +10,7 @@ What students produced in 2022 : <img src="Mindmap.png" />
 
 40' : in groups, investigate some case studies of open science outputs and their economic impacts and [fill a template](https://github.com/Enro/economic-impacts-OS/blob/main/template.md)
 * [Vidjil](https://www.vidjil.net/) (hematology and immunology)
-* ~~[RISC-V](https://riscv.org/) (microprocessor design)~~~
+* ~~[RISC-V](https://riscv.org/) (microprocessor design)~~
 * [syringe pump](https://hal.archives-ouvertes.fr/hal-02119548/)
 * ~~Landsat satellite images ([source 1](https://www.pnas.org/doi/10.1073/pnas.2001682117) and [source 2](https://www.unoosa.org/pdf/pres/stsc2012/2012ind-05E.pdf))~~
 * ~~[PubChem](https://journals.sagepub.com/doi/10.1177/0306312718772086)~~
