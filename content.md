@@ -22,6 +22,8 @@ What students produced in 2022 : <img src="Mindmap.png" />
 
 30' : share the investigations with the other groups
 
+Work of a group on the HGP: [https://docs.google.com/document/d/1TtxA5ZoTfP7SIfSUXQgvICsQ4tbjRecJDQLraTlFYS4/edit?tab=t.0#heading=h.8ponywf3r1am](https://docs.google.com/document/d/1TtxA5ZoTfP7SIfSUXQgvICsQ4tbjRecJDQLraTlFYS4/edit?usp=sharing )
+
 ## Problem solving
 
 50' : in groups, read through the [IP Policy](https://www.enterprise.cam.ac.uk/wp-content/uploads/2021/04/IP-Policy-in-Practice-Guidance-Note-25May10-FINAL-CLEAN-Updated-links-August-2015.pdf) and the [Open Science Statement](https://osc.cam.ac.uk/open-research-position-statement) of the University of Cambridge.
