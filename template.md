@@ -1,6 +1,6 @@
 # Case study of economic impact of open science
 
-## Describe the dataset, database, software, hardware… What is it? What is its purpose? How is it used?
+## Describe the dataset, database, software, hardware… produced by the project. What is it? What is its purpose? How is it used?
 
 ## Describe the openness of the project: in what respect is it open?
 
