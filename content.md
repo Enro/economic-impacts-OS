@@ -18,6 +18,7 @@ What students produced in 2022 : <img src="Mindmap.png" />
 * [Human Genome Project](https://web.ornl.gov/sci/techresources/Human_Genome/publicat/BattelleReport2011.pdf)
 * [Structural Genomics Consortium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396214/)
 
+
 20' : break
 
 30' : share the investigations with the other groups
@@ -26,7 +27,7 @@ Some groups work:
 * on the HGP [https://docs.google.com/document/d/1TtxA5ZoTfP7SIfSUXQgvICsQ4tbjRecJDQLraTlFYS4/edit?tab=t.0#heading=h.8ponywf3r1am](https://docs.google.com/document/d/1TtxA5ZoTfP7SIfSUXQgvICsQ4tbjRecJDQLraTlFYS4/edit?usp=sharing )
 * on the Structural Genomics Consortium [https://docs.google.com/document/d/16mlecWRrY_uo5bUkDQaYlS8_P1h-yNkSkXVq5YTskXE/edit?usp=sharing](https://docs.google.com/document/d/16mlecWRrY_uo5bUkDQaYlS8_P1h-yNkSkXVq5YTskXE/edit?usp=sharing)
 * on the VidjilNet consortium [https://docs.google.com/document/d/1JJHKJ05GcgVpw__5zypwBOM7BIB-Z3uJRQlQ5EGOjzY/edit?usp=sharing](https://docs.google.com/document/d/1JJHKJ05GcgVpw__5zypwBOM7BIB-Z3uJRQlQ5EGOjzY/edit?usp=sharing)
-* 
+* syringe pump [https://aixmarseilleuniversite-my.sharepoint.com/:w:/g/personal/el-hadji-ousmane_beye_etu_univ-amu_fr/EeY3sI_tuYBCnK_qsy_7J4sBBbfFmo6473LeqVonWZVuDg?e=is3Aw9](https://aixmarseilleuniversite-my.sharepoint.com/:w:/g/personal/el-hadji-ousmane_beye_etu_univ-amu_fr/EeY3sI_tuYBCnK_qsy_7J4sBBbfFmo6473LeqVonWZVuDg?e=is3Aw9)
 
 
 ## Problem solving
