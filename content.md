@@ -9,14 +9,14 @@ What students produced in 2022 : <img src="Mindmap.png" />
 ## Case studies
 
 40' : in groups, investigate some case studies of open science outputs and their economic impacts and [fill a template](https://github.com/Enro/economic-impacts-OS/blob/main/template.md)
-* [Vidjil](https://www.vidjil.net/) (hematology and immunology)
+* ~~Vidjil ([source 1](https://www.vidjil.net/) and [source 2](https://nextcloud.univ-lille.fr/index.php/s/orB2jdtfsTiWiyP) (hematology and immunology)~~
 * ~~[RISC-V](https://riscv.org/) (microprocessor design)~~
 * [syringe pump](https://hal.archives-ouvertes.fr/hal-02119548/)
 * ~~Landsat satellite images ([source 1](https://www.pnas.org/doi/10.1073/pnas.2001682117) and [source 2](https://www.unoosa.org/pdf/pres/stsc2012/2012ind-05E.pdf))~~
 * ~~[PubChem](https://journals.sagepub.com/doi/10.1177/0306312718772086)~~
 * [Protein Data Bank](https://dx.doi.org/10.2210/rcsb_pdb/pdb-econ-imp-2017)
 * [Human Genome Project](https://web.ornl.gov/sci/techresources/Human_Genome/publicat/BattelleReport2011.pdf)
-* [Structural Genomics Consortium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396214/)
+* Structural Genomics Consortium ([evaluation by RAND Europe](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396214/) and [case study of JQ1](https://doi.org/10.1517/17460441.2016.1144587)
 
 
 20' : break
@@ -37,6 +37,7 @@ Some groups work:
 After studying the texts, identify the institutional barriers of research organizations trying to balance commercialization of research and open science, and explain how you would tackle the issue in your research organization or research lab. [Not everything in the IP Policy and the Open Science statement conflicts with each other](problem-solving.md). So you may mention either things that you have read and could work together, or things that you imagine would work. This is still an open problem so don’t be afraid to speak!
 
 ## Bibliography
+* Tsipouri Lena, Liarti Sofia, Vignetti Silvia & Grapengiesser Izabella Martins (2025). The economic impact of open science: a scoping review. *R. Soc. Open Sci.* 12250754. http://doi.org/10.1098/rsos.250754
 * European Commission, Directorate-General for Research and Innovation (2022). *Study on factors impeding the productivity of research and the prospects for open science policies to improve the ability of the research and innovation system : final report*, Publications Office of the European Union. https://data.europa.eu/doi/10.2777/58887
 * Fell, M. J. (2019). The Economic Impacts of Open Science: A Rapid Evidence Assessment. *Publications*, 7(3), 46. https://doi.org/10.3390/publications7030046
 * Hart, K, An, S, Edwards, AM, Mahadevan, R, Master, ER, Edwards, EA. Could open science stimulate industry partnerships in chemical engineering university research? *Can J Chem Eng*. 2021; 99: 2186– 2194. https://doi.org/10.1002/cjce.24077
