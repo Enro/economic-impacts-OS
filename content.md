@@ -14,7 +14,7 @@ What students produced in 2022 : <img src="Mindmap.png" />
 * [syringe pump](https://hal.archives-ouvertes.fr/hal-02119548/)
 * ~~Landsat satellite images ([source 1](https://www.pnas.org/doi/10.1073/pnas.2001682117) and [source 2](https://www.unoosa.org/pdf/pres/stsc2012/2012ind-05E.pdf))~~
 * ~~[PubChem](https://journals.sagepub.com/doi/10.1177/0306312718772086)~~
-* [Protein Data Bank](https://cdn.rcsb.org/rcsb-pdb/general_information/about_pdb/Economic%20Impacts%20of%20the%20PDB.pdf)
+* [Protein Data Bank](https://dx.doi.org/10.2210/rcsb_pdb/pdb-econ-imp-2017)
 * [Human Genome Project](https://web.ornl.gov/sci/techresources/Human_Genome/publicat/BattelleReport2011.pdf)
 * [Structural Genomics Consortium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396214/)
 
