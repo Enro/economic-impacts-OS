@@ -19,7 +19,6 @@ What students produced in 2022 : <img src="Mindmap.png" />
 * Structural Genomics Consortium ([evaluation by RAND Europe](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396214/) and [case study of JQ1](https://doi.org/10.1517/17460441.2016.1144587))
 * [EMBL-EBI](https://www.embl.org/documents/wp-content/uploads/2021/10/EMBL-EBI-impact-report-2021.pdf)
 
-
 20' : break
 
 30' : share the investigations with the other groups
