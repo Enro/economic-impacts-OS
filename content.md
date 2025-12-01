@@ -33,7 +33,7 @@ Some groups work:
 
 ## Problem solving
 
-50' : in groups, read through the [IP Policy](https://www.enterprise.cam.ac.uk/wp-content/uploads/2021/04/IP-Policy-in-Practice-Guidance-Note-25May10-FINAL-CLEAN-Updated-links-August-2015.pdf) and the [Open Science Statement]([https://osc.cam.ac.uk/open-research-position-statement](https://web.archive.org/web/20250401023137/https://osc.cam.ac.uk/open-research-position-statement)) of the University of Cambridge.
+50' : in groups, read through the [IP Policy](https://www.enterprise.cam.ac.uk/wp-content/uploads/2021/04/IP-Policy-in-Practice-Guidance-Note-25May10-FINAL-CLEAN-Updated-links-August-2015.pdf) and the [Open Science Statement](https://web.archive.org/web/20250401023137/https://osc.cam.ac.uk/open-research-position-statement) of the University of Cambridge.
 
 After studying the texts, identify the institutional barriers of research organizations trying to balance commercialization of research and open science, and explain how you would tackle the issue in your research organization or research lab. [Not everything in the IP Policy and the Open Science statement conflicts with each other](problem-solving.md). So you may mention either things that you have read and could work together, or things that you imagine would work. This is still an open problem so don’t be afraid to speak!
 
