@@ -16,7 +16,7 @@ What students produced in 2022 : <img src="Mindmap.png" />
 * ~~[PubChem](https://journals.sagepub.com/doi/10.1177/0306312718772086)~~
 * [Protein Data Bank](https://dx.doi.org/10.2210/rcsb_pdb/pdb-econ-imp-2017)
 * [Human Genome Project](https://www.battelle.org/docs/default-source/misc/battelle-2011-misc-economic-impact-human-genome-project.pdf)
-* Structural Genomics Consortium ([evaluation by RAND Europe](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396214/) and [case study of JQ1](https://doi.org/10.1517/17460441.2016.1144587)
+* Structural Genomics Consortium ([evaluation by RAND Europe](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396214/) and [case study of JQ1](https://doi.org/10.1517/17460441.2016.1144587))
 * [EMBL-EBI](https://www.embl.org/documents/wp-content/uploads/2021/10/EMBL-EBI-impact-report-2021.pdf)
 
 
