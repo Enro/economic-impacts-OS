@@ -16,8 +16,11 @@ What students produced in 2022 : <img src="Mindmap.png" />
 * ~~[PubChem](https://journals.sagepub.com/doi/10.1177/0306312718772086)~~
 * [Protein Data Bank](https://dx.doi.org/10.2210/rcsb_pdb/pdb-econ-imp-2017)
 * [Human Genome Project](https://www.battelle.org/docs/default-source/misc/battelle-2011-misc-economic-impact-human-genome-project.pdf)
-* Structural Genomics Consortium ([evaluation by RAND Europe](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396214/) and [case study of JQ1](https://doi.org/10.1517/17460441.2016.1144587))
+* Structural Genomics Consortium (~~[evaluation by RAND Europe](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5396214/) and~~ [case study of drug candidate JQ1](https://doi.org/10.1517/17460441.2016.1144587))
 * [EMBL-EBI](https://www.embl.org/documents/wp-content/uploads/2021/10/EMBL-EBI-impact-report-2021.pdf)
+* [European Distributed System of Scientific Collections (DiSSCo)](https://44092021.hs-sites.com/hubfs/Brand/Masterbrand/Web/Other/Redefining%20Project/PLOS_Technopolis_Economic_Benefits_of_Open_Science_Independent_Report_2026.pdf#page=43)
+* [BLOOM (open source LLM)](https://44092021.hs-sites.com/hubfs/Brand/Masterbrand/Web/Other/Redefining%20Project/PLOS_Technopolis_Economic_Benefits_of_Open_Science_Independent_Report_2026.pdf#page=50)
+* ~~[UniProt](https://zenodo.org/records/15731712/preview/D4.4%20CBA%20case%20studies.pdf?include_deleted=0)~~
 
 20' : break
 
